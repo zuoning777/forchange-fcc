@@ -8,10 +8,10 @@
 
 ### Usage
 
-`> fcc module|m <moduleName>`
+`> ffcc module|m <moduleName>`
 
 ### Example
 
-`> fcc m TestFcc`
+`> ffcc m TestFcc`
 
 **请确保当前项目结构下存在src/modules路径**
