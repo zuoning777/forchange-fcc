@@ -1,0 +1,45 @@
+{
+  "_from": "forchange-fcc",
+  "_id": "forchange-fcc@0.1.10",
+  "_inBundle": false,
+  "_integrity": "sha512-Nxjrvd2HI6LofIGnPt8X1GQRnDiCnIIuN8Ej4q4UH47U0xRyGa4ozq5WkrfgXIonLQLjzd4ZACNxkfrtFEcU6Q==",
+  "_location": "/forchange-fcc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "forchange-fcc",
+    "name": "forchange-fcc",
+    "escapedName": "forchange-fcc",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/forchange-fcc/-/forchange-fcc-0.1.10.tgz",
+  "_shasum": "49060a3ff5cbe426c0e8136376636972bda62361",
+  "_spec": "forchange-fcc",
+  "_where": "/Users/tangyuhui/.nvm/versions/node/v13.3.0/lib/node_modules",
+  "author": {
+    "name": "zuoning"
+  },
+  "bin": {
+    "ffcc": "./index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "commander": "^5.1.0",
+    "ncp": "^2.0.0"
+  },
+  "deprecated": false,
+  "description": "针对@forchange/cc脚手架的目录生成工具",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "forchange-fcc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.11"
+}
